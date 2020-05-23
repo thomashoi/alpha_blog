@@ -11,7 +11,7 @@ gem 'will_paginate', '3.1.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 # gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sass-rails', '>= 6'
